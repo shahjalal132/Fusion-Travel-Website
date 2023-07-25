@@ -1,0 +1,121 @@
+@media(max-width:768px){
+
+    h1{
+        font-size: 40px;
+    }
+
+    h2{
+        font-size: 30px;
+    }
+
+    h5{
+        font-size: 15px;
+    }
+
+    .header-nav{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 3% 0;
+    }
+
+    .nav-links ul{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .nav-links ul li{
+        display: block;
+        padding: 10px 0;
+    }
+
+    .row{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .wellcome-col{
+        margin-bottom: 30px;
+    }
+
+    .db-col{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+
+    .bb-item1{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+    .bb-item2{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+    .bb-item3{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+    .bb-item4{
+        flex-basis: 100%;
+        margin-bottom: 20px;
+    }
+
+    .bb-item5{
+        flex-basis: 100%;
+    }
+
+    .bb-item6{
+        flex-basis: 100%;
+    }
+
+    .discount-row h2{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .cta-btn{
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .review-bottom{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .rb-text{
+        padding: 20px;
+    }
+
+    .footer-nav{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .about-us{
+        width: 100%;
+    }
+
+    .address{
+        width: 100%;
+    }
+
+    .contact-us{
+        width: 100%;
+    }
+
+    .follow-us{
+        width: 100%;
+    }
+
+
+
+
+}
